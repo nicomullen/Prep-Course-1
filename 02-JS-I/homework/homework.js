@@ -1,10 +1,10 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = hola;
+const nuevaString = "hola, mi primera tarea de JavaScrip"; 
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum 7;
+const nuevoNum = "7";
 
 // Crea una variable booleana:
 const nuevoBool = true;
@@ -28,20 +28,20 @@ const nuevoModulo = 21 % 5 === 1 ;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+ return  
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  
+  return x + y; 
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  
+  return x-y; 
 }
 
 function multiplica(x, y) {
@@ -67,7 +67,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+   
 }
 
 function menosQueNoventa(num) {
